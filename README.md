@@ -21,7 +21,6 @@ https://github.com/suku-7/azure-aks-istio-servicemesh-monitoring-lab-20250620
 ![스크린샷 2025-06-23 122011](https://github.com/user-attachments/assets/9594e292-403e-4dd6-9021-9a2391422035)
 ![스크린샷 2025-06-23 122833](https://github.com/user-attachments/assets/d3321c2b-98f3-4433-8e5e-61b2cecec038)
 ![스크린샷 2025-06-23 123121](https://github.com/user-attachments/assets/e714bb3f-4cbd-4478-af4a-cb16c1638dce)
-![스크린샷 2025-06-23 134634](https://github.com/user-attachments/assets/aa17c93c-0d20-4182-8286-db67b18a8567)
 
 ---
 
